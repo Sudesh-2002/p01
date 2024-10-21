@@ -1,0 +1,21 @@
+.div1 .vid1{
+  width: 300px;
+}
+.div1{
+  max-width: 300px;
+  padding: 10px;
+  margin: 10px;
+  display: inline-block;
+  border: solid rgba(0, 0, 0, 0.205);
+  color: rgb(119, 67, 230);
+  text-align: justify;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.368);
+}
+h1{
+  text-align: center;
+  color: red;
+}
+span{
+  color: rgb(230, 124, 3);
+  text-decoration: underline;
+}
